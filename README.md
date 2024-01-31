@@ -70,5 +70,7 @@ For any inquiries or further discussions regarding the projects mentioned above,
 Thank you for your time and consideration.
 
 R.Prithvi Ragavendiran
+
 Data Science Intern
+
 Flazetech
