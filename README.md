@@ -62,6 +62,10 @@ To create a machine learning model capable of distinguishing between spam and no
 - Developed a robust spam detection model with high precision and recall rates.
 - Identified common patterns and characteristics of spam emails.
 
+### Additional Note:
+- Implemented the email spam detection model using Streamlit, allowing the classification of uploaded CSV files into spam and non-spam categories.
+
+
 ## Conclusion
 Throughout my internship at Flazetech, I gained valuable hands-on experience in various aspects of data science, including data preprocessing, feature engineering, model selection, and evaluation. Each project provided unique challenges and opportunities for learning, ultimately contributing to my growth as a data scientist. I am grateful for the opportunity to work on these projects and look forward to applying the skills and knowledge gained in future endeavors.
 
